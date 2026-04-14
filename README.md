@@ -76,14 +76,13 @@ Experienced in team development using GitHub, pull requests, code reviews, and s
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-clinton&show_icons=true&theme=dark&hide_border=true)
 
 **Contribution Streak**  
-![GitHub Streak](https://streak-stats.demolab.com?user=k-clinton&theme=dark&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=k-clinton&theme=dark&hide_border=true)
 ---
 
 ### Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app?user=k-clinton&theme=github-dark&hide_border=true&area=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/?username=k-clinton&theme=github-dark&hide_border=true&area=true)
 
 ### Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=k-clinton&theme=dark&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=k-clinton&theme=dark&no-frame=true&margin-w=10)
