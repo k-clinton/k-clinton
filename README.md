@@ -69,9 +69,9 @@ Experienced in team development using GitHub, pull requests, code reviews, and s
 
 ### Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-clinton&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-rust-rho-13.vercel.app/api/top-langs/?username=k-clinton&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-clinton&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://https://github-readme-stats-rust-rho-13.vercel.app/api?username=k-clinton&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
 
 **Contribution Streak**  
