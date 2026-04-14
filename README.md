@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/k-clinton/k-clinton/main/banner.png" alt="Welcome Banner" width="100%" />
 </div>
 
-<h1 align="center">Welcome to Clinton Omondi's GitHub</h1>
 
 ### Connect with me
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ClintonKappy)
