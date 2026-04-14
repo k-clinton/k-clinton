@@ -5,21 +5,30 @@
 
 ### Connect with me
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ClintonKappy)
-<!-- Add Telegram / WhatsApp / LinkedIn if you have them -->
-<!-- Example: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](your-link) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://k-clinton.github.io/Portfolio)
+<!-- Add these once you have the links -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) -->
+<!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_TELEGRAM_URL) -->
+<!-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](YOUR_WHATSAPP_URL) -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omondiclinn@gmail.com.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k.clinton_)
 
 ---
 
 ### About me
 
-Hello, I'm **Clinton Omondi** — a passionate Frontend Developer focused on building clean, scalable, and modern web applications with React, Next.js, and TypeScript.
+Hey! I'm **Clinton Omondi** — an **AI Engineer & Full-Stack Developer** who crafts beautiful, functional digital experiences that bring ideas to life.  
 
-I value clean code, great user experience, performance, and long-term maintainability. "Tech it easy" is my motto.
+I specialize in modern web development, user-centered design, and building intelligent applications with clean, scalable code. With over 3 years of experience, I create digital products that users love while solving real problems through great design and performant code.
+
+"**Tech it easy**" is my motto.
 
 **Key Focus Areas:**
-- Modern and responsive web interfaces
-- Scalable frontend architecture
-- Clean UI/UX with attention to detail
+- Modern & responsive web interfaces
+- Scalable full-stack architecture
+- AI-powered applications & machine learning
+- Clean UI/UX with pixel-perfect attention to detail
+- Open-source collaboration and knowledge sharing
 
 ---
 
@@ -31,12 +40,25 @@ I value clean code, great user experience, performance, and long-term maintainab
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frameworks & Libraries**  
+**Frontend Frameworks & Libraries**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B67E?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+**Backend & Databases**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**AI & Machine Learning**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 **Tools & Others**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -47,24 +69,21 @@ Experienced in team development using GitHub, pull requests, code reviews, and s
 
 ### Statistics
 
-**Most Used Languages**
-
+**Most Used Languages**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-clinton&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook)
 
-**GitHub Stats**
-
+**GitHub Stats**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-clinton&show_icons=true&theme=dark&hide_border=true)
 
-**Contribution Streak**
-
+**Contribution Streak**  
 ![GitHub Streak](https://streak-stats.demolab.com?user=k-clinton&theme=dark&hide_border=true)
 
 ---
 
 ### Contribution Graph
 
-![Contribution Graph](https://github-readme-streak-stats.demolab.com?user=k-clinton&theme=dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app?user=k-clinton&theme=github-dark&hide_border=true&area=true)
 
-<!-- Optional: Add trophies -->
 ### Achievements
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=k-clinton&theme=dark&no-frame=true)
