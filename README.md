@@ -76,7 +76,7 @@ Experienced in team development using GitHub, pull requests, code reviews, and s
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-clinton&show_icons=true&theme=dark&hide_border=true)
 
 **Contribution Streak**  
-![GitHub Streak](https://streak-stats.demolab.com/?user=k-clinton&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=k-clinton&theme=dark&hide_border=true)
 ---
 
 ### Contribution Graph
